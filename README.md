@@ -66,7 +66,7 @@ The script includes several helper functions to perform specific checks:
 
 Enter your password: StrongPass123!
 
-Password Strength: Strong
+Password Strength: Excellent
 
 Feedback:
 
